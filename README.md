@@ -11,7 +11,7 @@ To evaluate sales performance across different time periods.
 
 To create an interactive, user-friendly dashboard for management-level insights.
 ## Dataset Use
-< a href = "https://github.com/botakeprayas/E-Commerce-Sales-Analysis-Dashboard-Power-BI-/blob/main/ecommerce_sales_34500.csv">Dataset
+< a href = "https://github.com/botakeprayas/E-Commerce-Sales-Analysis-Dashboard-Power-BI-/blob/main/ecommerce_sales_34500.csv" >Dataset
 
 ## Key Insights
 Revenue Trend: Steady month-over-month growth observed in sales, indicating strong customer engagement.
@@ -25,6 +25,8 @@ Customer Behavior: Returning customers contribute a major share of total revenue
 Seasonal Trends: Peak sales observed during specific months, indicating seasonal purchase patterns.
 
 Discount Impact: Moderate discounts drive higher sales volumes without major profit reduction.
+## Dasboard
+<a href = " https://github.com/botakeprayas/E-Commerce-Sales-Analysis-Dashboard-Power-BI-/blob/main/Screenshot%202025-10-05%20131629.png">Dashboard
 ## Conclusion
 The Power BI E-Commerce Dashboard successfully transforms raw transactional data into actionable insights.
 By visualizing key metrics such as sales, customer behavior, and product performance, the project enables stakeholders to:
