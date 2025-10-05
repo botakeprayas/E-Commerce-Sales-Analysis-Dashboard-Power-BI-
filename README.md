@@ -28,14 +28,5 @@ Discount Impact: Moderate discounts drive higher sales volumes without major pro
 ## Dasboard
 <a href = "https://github.com/botakeprayas/E-Commerce-Sales-Analysis-Dashboard-Power-BI-/blob/main/Screenshot%202025-10-05%20131629.png" >Dashboard </a>
 ## Conclusion
-The Power BI E-Commerce Dashboard successfully transforms raw transactional data into actionable insights.
-By visualizing key metrics such as sales, customer behavior, and product performance, the project enables stakeholders to:
-
-Identify growth opportunities.
-
-Optimize marketing and inventory strategies.
-
-Make informed, data-backed business decisions.
-
-This project demonstrates how Power BI can be leveraged for business intelligence, analytics, and performance tracking in the e-commerce sector.
+The Power BI E-Commerce Dashboard effectively transforms raw data into actionable insights. It helps identify growth opportunities, optimize marketing and inventory decisions, and support data-driven strategies — showcasing the power of Power BI in business intelligence and analytics.
 
